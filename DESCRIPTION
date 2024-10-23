@@ -1,0 +1,16 @@
+Package: degfind
+Title: DEG find
+Description: Find differentially expressed genes. This package provides tools for transcriptomics analysis of microarray data.
+Version: 1.0
+Authors@R: person("Castelli", "Lucía", email = "lucia.castelli21@gmail.com", role = c("aut", "cre", "cph"))
+License: MIT + file LICENSE
+Video: https://youtu.be/7Vcm609bAac?feature=shared
+Encoding: UTF-8
+Requires:
+    tidyverse (>= 2.0.0)
+    BiocManager (>= 1.30.23)
+    limma (>= 3.60.4)
+    ggrepel (>= 0.9.5)
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

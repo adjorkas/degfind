@@ -1,0 +1,8 @@
+export(sample_names)
+export(gene_names)
+export(plot_data_quality)
+export(make_lm)
+export(make_toptable)
+export(DEGs)
+export(volcano)
+export(DEG_table)
